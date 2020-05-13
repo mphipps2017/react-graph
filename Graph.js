@@ -1,5 +1,6 @@
 import React from 'react';
 import {Line} from 'react-chartjs-2';
+// Tutorial badsed off of https://www.educative.io/edpresso/how-to-use-chartjs-to-create-charts-in-react
 
 class Graph extends React.Component{
     constructor(props){
